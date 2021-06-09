@@ -1,3 +1,3 @@
-# Java-upo
+# Java-upo-algorithm
 
 # Progetto di algoritmi - UPO
