@@ -1,3 +1,3 @@
 # Java-upo-algorithm
 
-# Progetto di algoritmi - UPO 2018/2019
+# Progetto di algoritmi - UPO 2019/2020
